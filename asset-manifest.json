@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vib-tech/static/css/main.ddca5477.css",
+    "main.js": "/vib-tech/static/js/main.bda95680.js",
+    "static/media/1.png": "/vib-tech/static/media/1.6fa4186a24b8a4e356a6.png",
+    "static/media/4.jpg": "/vib-tech/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/vib-tech/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/svg.svg": "/vib-tech/static/media/svg.83b07f8367bfcefdeb3a051dcc8f70ee.svg",
+    "index.html": "/vib-tech/index.html",
+    "main.ddca5477.css.map": "/vib-tech/static/css/main.ddca5477.css.map",
+    "main.bda95680.js.map": "/vib-tech/static/js/main.bda95680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddca5477.css",
+    "static/js/main.bda95680.js"
+  ]
+}
